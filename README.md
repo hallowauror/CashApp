@@ -21,7 +21,7 @@ Cash App is a open source project. You can clone/download this project. Thanks t
 
 👤 Ega Arya Pradipta
 
-LinkedIn : Ega Arya 
+LinkedIn : Ega Arya <br/>
 Facebook : Ega Arya
 
 ## License
