@@ -1,4 +1,4 @@
-# cashinout
+# CashApp
 
 ## Project setup
 ```
