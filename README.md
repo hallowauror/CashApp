@@ -15,14 +15,14 @@ Laravel for developing API on this application and using Laravel Sanctum for aut
 
 Release date : 5 January 2021
 
-Cash App is a open source project. You can clone/download this project. Thanks to Irsyad A. Panjaitan.
+Cash App is a open source project. You can clone/download this project.
 
 ## Authors 🧑 
 
 👤 Ega Arya Pradipta
 
-LinkedIn : Ega Arya <br/>
-Facebook : Ega Arya
+LinkedIn : https://www.linkedin.com/in/ega-arya-7b88a0201/ <br/>
+Facebook : https://www.facebook.com/ega.arya/
 
 ## License
 
